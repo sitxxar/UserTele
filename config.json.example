@@ -1,0 +1,6 @@
+{
+  "api_id": 0,
+  "api_hash": "YOUR_API_HASH_HERE",
+  "min_delay": 2.0,
+  "max_delay": 5.0
+}

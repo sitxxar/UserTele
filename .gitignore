@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Telegram Session files (contains private authorization keys)
+*.session
+*.session-journal
+
+# Project Config (contains private API ID and API Hash)
+config.json
+
+# Local output/data files
+available.txt
