@@ -113,7 +113,3 @@ Anda dapat memodifikasi parameter jalannya skrip secara fleksibel tanpa mengubah
   ```
 
 ---
-
-## Keamanan & Kepercayaan
-> [!CAUTION]
-> **JANGAN PERNAH** membagikan atau mengunggah berkas `config.json` dan `tg_checker_session.session` Anda ke publik (seperti GitHub). Berkas tersebut mengandung akses penuh ke akun Telegram Anda. Berkas ini sudah dimasukkan ke `.gitignore` demi keamanan Anda.
