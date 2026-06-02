@@ -21,7 +21,7 @@ def print_banner():
 ╔╦╗╔═╗╦  ╔═╗╔═╗╦═╗╔═╗╔╦╗  ╔═╗╦  ╦  ╔═╗╦ ╦╔═╗╔═╗╦╔═╔═╗╦═╗
  ║ ║╣ ║  ║╣ ║ ╦╠╦╝╠═╣║║║  ║  ║  ║  ║  ╠═╣║╣ ║  ╠╩╗║╣ ╠╦╝
  ╩ ╚═╝╩═╝╚═╝╚═╝╩╚═╩ ╩╩ ╩  ╚═╝╩═╝╩  ╚═╝╩ ╩╚═╝╚═╝╩ ╩╚═╝╩╚═
-                {Y}Telegram Username Checker CLI{W}
+            {Y}Telegram Username Checker By SITXXAR{W}
     """
     print(banner)
 
