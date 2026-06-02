@@ -1,4 +1,4 @@
-# Telegram Username Checker By SITXXAR
+# Telegram Username Checker
 
 Alat berbasis Command Line Interface (CLI) untuk mengecek ketersediaan username Telegram secara massal, efisien, dan aman menggunakan pustaka resmi **Telethon**.
 
