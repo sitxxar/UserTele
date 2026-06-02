@@ -53,8 +53,8 @@ Untuk berkomunikasi dengan API Telegram, Anda memerlukan `api_id` dan `api_hash`
 Buka berkas `config.json` yang baru dibuat menggunakan teks editor (Notepad, VS Code, dll.) dan ganti nilainya dengan API credentials Anda:
 ```json
 {
-  "api_id": 22338414,
-  "api_hash": "706f342c0520df5fc30c239220aa1329",
+  "api_id": 0,
+  "api_hash": "YOUR_API_HASH_HERE",
   "min_delay": 2.0,
   "max_delay": 5.0
 }
